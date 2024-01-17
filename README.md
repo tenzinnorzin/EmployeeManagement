@@ -81,15 +81,5 @@ Have fun
 
 
 
-## 6. Original Creator:
 
-Author: Ramesh Fadatare 
- 
-Github Project Name: springboot-thymeleaf-crud-pagination-sorting-webapp
-
-Github URL: https://github.com/RameshMF/springboot-thymeleaf-crud-pagination-sorting-webapp
-
-Youtube URL: https://www.youtube.com/watch?v=_5sAmaRJd2c
-
-Date: 1 June, 2020
 
